@@ -36,6 +36,6 @@
     "typescript": "^3.6.2"
   },
   "dependencies": {
-    "lit-html": "^1.0.0"
+    "lit-html": "^1.4.0"
   }
 }
